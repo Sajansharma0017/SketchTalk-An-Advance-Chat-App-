@@ -1,4 +1,4 @@
-SketchTalk: Real-time Collaboration Made Easy
+#SketchTalk: Real-time Collaboration Made Easy
 SketchTalk is a web application built with React that empowers remote collaboration by offering chat, audio, a real-time collaborative whiteboard, and more in one unified platform. Designed for educational and professional settings, SketchTalk fosters efficient and engaging teamwork.
 
 Features
